@@ -10,14 +10,13 @@
 /dataSources/
 /dataSources.local.xml
 
-.idea
-.bin
-.obj
+*.dll
 
 /.idea
-/.bin
-/.obj
 
-../.idea
-../.bin
-../.obj
+ExceptionAttribute/bin
+ExceptionAttribute/obj
+
+WebApplication1/obj
+WebApplication1/bin
+
